@@ -1,0 +1,27 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="TRY_BRACE_FORCE" value="3" />
+      <option name="INDENT_FIRST_PARAMETER" value="false" />
+      <option name="TYPE_ANNOTATION_PUBLIC_MEMBER" value="false" />
+      <option name="TYPE_ANNOTATION_PROTECTED_MEMBER" value="false" />
+      <option name="TYPE_ANNOTATION_IMPLICIT_MODIFIER" value="false" />
+      <option name="ENFORCE_FUNCTIONAL_SYNTAX_FOR_UNIT" value="false" />
+    </ScalaCodeStyleSettings>
+    <codeStyleSettings language="Scala">
+      <option name="BRACE_STYLE" value="2" />
+      <option name="CLASS_BRACE_STYLE" value="2" />
+      <option name="METHOD_BRACE_STYLE" value="2" />
+      <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+      <option name="FOR_STATEMENT_WRAP" value="2" />
+      <option name="IF_BRACE_FORCE" value="3" />
+      <option name="WHILE_BRACE_FORCE" value="3" />
+      <indentOptions>
+        <option name="INDENT_SIZE" value="4" />
+        <option name="CONTINUATION_INDENT_SIZE" value="4" />
+        <option name="TAB_SIZE" value="4" />
+        <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>
